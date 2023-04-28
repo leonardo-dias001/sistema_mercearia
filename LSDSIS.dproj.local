@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/19 18:52:16.000.190,=C:\Users\leonardo-dias\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/19 19:02:23.000.676,C:\Users\leonardo-dias\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\leonardo-dias\Desktop\sistema mercearia\U_Principal_DM.dfm</Transaction>
+    <Transaction>2023/04/19 19:02:23.000.676,C:\Users\leonardo-dias\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\leonardo-dias\Desktop\sistema mercearia\U_Principal_DM.pas</Transaction>
+    <Transaction>2023/04/19 19:38:45.000.285,=C:\Users\leonardo-dias\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/19 20:28:16.000.876,C:\Users\leonardo-dias\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\leonardo-dias\Desktop\sistema mercearia\U_menu.dfm</Transaction>
+    <Transaction>2023/04/19 20:28:16.000.876,C:\Users\leonardo-dias\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\leonardo-dias\Desktop\sistema mercearia\U_menu.pas</Transaction>
+    <Transaction>2023/04/19 20:28:55.000.408,C:\Users\leonardo-dias\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\leonardo-dias\Desktop\sistema mercearia\LSDSIS.dproj</Transaction>
+    <Transaction>2023/04/19 20:57:26.000.942,=C:\Users\leonardo-dias\Desktop\sistema mercearia\Unit1.pas</Transaction>
+    <Transaction>2023/04/19 21:04:11.000.529,C:\Users\leonardo-dias\Desktop\sistema mercearia\Unit1.dfm=C:\Users\leonardo-dias\Desktop\sistema mercearia\U_Apoio.dfm</Transaction>
+    <Transaction>2023/04/19 21:04:11.000.529,C:\Users\leonardo-dias\Desktop\sistema mercearia\Unit1.pas=C:\Users\leonardo-dias\Desktop\sistema mercearia\U_Apoio.pas</Transaction>
+    <Transaction>2023/04/21 14:00:24.000.539,=C:\Users\leonardo-dias\Desktop\sistema mercearia\Unit1.pas</Transaction>
+    <Transaction>2023/04/21 15:00:34.000.564,C:\Users\leonardo-dias\Desktop\sistema mercearia\Unit1.pas=C:\Users\leonardo-dias\Desktop\sistema mercearia\U_Estoque.pas</Transaction>
+    <Transaction>2023/04/21 15:00:34.000.564,C:\Users\leonardo-dias\Desktop\sistema mercearia\Unit1.dfm=C:\Users\leonardo-dias\Desktop\sistema mercearia\U_Estoque.dfm</Transaction>
+    <Transaction>2023/04/21 15:04:56.000.475,=C:\Users\leonardo-dias\Desktop\sistema mercearia\Unit1.pas</Transaction>
+    <Transaction>2023/04/21 15:07:38.000.863,C:\Users\leonardo-dias\Desktop\sistema mercearia\Unit1.dfm=C:\Users\leonardo-dias\Desktop\sistema mercearia\U_Fornecedor.dfm</Transaction>
+    <Transaction>2023/04/21 15:07:38.000.863,C:\Users\leonardo-dias\Desktop\sistema mercearia\Unit1.pas=C:\Users\leonardo-dias\Desktop\sistema mercearia\U_Fornecedor.pas</Transaction>
+  </Transactions>
+</BorlandProject>
